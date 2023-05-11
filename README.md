@@ -25,7 +25,7 @@ Pour celui-ci,
 
 -Démarrer le challenge
 -Affichage d'une série de codes hexadécimal
--Utilisation d'un décodeur (hpd.gasmi.net dans mon cas) pour déchiffrer les codes hexadécimal en code à base 64
+-Utilisation d'un décodeur ( hpd.gasmi.net dans mon cas) pour déchiffrer les codes hexadécimal en code à base 64
 -Une fois trouvé, convertir ce code à base 64 en string à l'aide de "www.string-functions.com"
 
 
